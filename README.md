@@ -1,6 +1,6 @@
 # DB
 
-Transport Service System For FAST-NUCES
+Points Service Automation
 Backend: PHP
 Frontend: HTML & CSS
 Database: SQL Developer
